@@ -3,7 +3,7 @@
 
 Пакет axios+jsdom
 
-    npm run aparse
+    npm run parse
 
 
 ___
